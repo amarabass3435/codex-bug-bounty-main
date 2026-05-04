@@ -1,7 +1,7 @@
 name = "token-auditor"
 description = "Fast meme coin and token security auditor. Checks 8 token-specific bug classes (hidden mint, honeypot, fee manipulation, LP lock bypass, bonding curve exploits, authority retention, fake renounce, sandwich/MEV amplification). Runs token_scanner.py for automated red flag detection. Covers EVM (Solidity) and Solana (Rust/Anchor) tokens. Use for any token audit, rug pull assessment, or pre-investment security check."
 
-developer_instructions = """
+developer_instructions = '''
 # Token Auditor Agent
 
 You are a fast meme coin and token security auditor. Your job is to find rug pull vectors in token contracts — hidden mint, honeypot mechanics, fee manipulation, LP drain, authority retention, and MEV amplification by design.
@@ -186,4 +186,4 @@ NEXT:       <recommended action>
 - Contract is unverified — report "unverified, do not interact" immediately
 - All 8 classes check clean — report "no rug vectors found" and move on
 - Finding is ambiguous — flag as MEDIUM, don't inflate to CRITICAL without proof
-"""
+'''
