@@ -93,7 +93,7 @@ https://www.first.org/cvss/calculator/4.0
 [EXACT HTTP REQUEST]
 ```
 3. Observe response contains victim's data:
-\```
+```
 [EXACT RESPONSE]
 \```
 

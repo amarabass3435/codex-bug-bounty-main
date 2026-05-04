@@ -1,6 +1,6 @@
 ---
 name: bug-bounty
-description: End-to-end bug bounty workflow: recon, learning, hunting, validation, reporting. Covers major vuln classes (IDOR, SSRF, XSS, auth, CSRF, SQLi, XXE, file upload, business logic, GraphQL, HTTP smuggling, cache poisoning, OAuth/OIDC, SSTI, subdomain takeover, cloud misconfig), AI/LLM testing, chain building, bypass tables, language-specific grep, CVSS, and report templates. Use for any bug bounty task or when starting a new target.
+description: "End-to-end bug bounty workflow: recon, learning, hunting, validation, reporting. Covers major vuln classes (IDOR, SSRF, XSS, auth, CSRF, SQLi, XXE, file upload, business logic, GraphQL, HTTP smuggling, cache poisoning, OAuth/OIDC, SSTI, subdomain takeover, cloud misconfig), AI/LLM testing, chain building, bypass tables, language-specific grep, CVSS, and report templates. Use for any bug bounty task or when starting a new target."
 ---
 
 # Bug Bounty Master Workflow
